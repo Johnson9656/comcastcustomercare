@@ -3,7 +3,7 @@ How nTo Contact Comcast Customer Care?
 
 Comcast is one of the largest telecommunications companies in the United States, providing internet, cable TV, and home phone services. As a service provider with millions of customers across the country, Comcast understands the importance of maintaining strong customer relationships and offering reliable support. In this article, we will explore the various ways to connect with Comcast customer care, what you can expect when contacting Comcast customer care, and how Comcast care can help address your concerns.
 
-.. image:: download.gif
+.. image:: care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
